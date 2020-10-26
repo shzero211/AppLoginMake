@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "1384304683",
+    "firebase_url": "https://howlcoding-befd8.firebaseio.com",
+    "project_id": "howlcoding-befd8",
+    "storage_bucket": "howlcoding-befd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1384304683:android:231f83bd3511bb022f5a6e",
+        "android_client_info": {
+          "package_name": "com.example.apploginmake"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1384304683-139elhcsgd77k6c5seadvuqtjbfhihn2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.apploginmake",
+            "certificate_hash": "367bce1fe0867fb4df24f0569abd6cb17e0da557"
+          }
+        },
+        {
+          "client_id": "1384304683-2m9sca9au34a4hgag0coc2kj40hlleke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHu69dr5DFrhsAkEiphpPGLVG71DLDtGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1384304683-2m9sca9au34a4hgag0coc2kj40hlleke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1384304683:android:9d716b070897b0402f5a6e",
+        "android_client_info": {
+          "package_name": "com.example.howlfirebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1384304683-k98bblgofneojt86drjfoiqcfuniegnj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.howlfirebaseauth",
+            "certificate_hash": "367bce1fe0867fb4df24f0569abd6cb17e0da557"
+          }
+        },
+        {
+          "client_id": "1384304683-2m9sca9au34a4hgag0coc2kj40hlleke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHu69dr5DFrhsAkEiphpPGLVG71DLDtGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1384304683-2m9sca9au34a4hgag0coc2kj40hlleke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
